@@ -1,0 +1,9 @@
+name java_demo
+startup java
+java_app_class CreoParametersPlugin
+java_app_start start
+java_app_stop stop
+java_app_classpath .;jackson-annotations-2.3.0.jar;jackson-core-2.3.1.jar;jackson-databind-2.3.1.jar;joda-time-2.3.jar;logback-classic-1.0.13.jar;logback-core-1.0.13.jar;netty-all-4.0.19.Final.jar;slf4j-api-1.7.6.jar;thingworx-common.jar;C:\Program Files\Java\jre7\lib;
+allow_stop true
+delay_start true
+END

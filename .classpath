@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/pfcasync.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/jackson-annotations-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/jackson-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/jackson-databind-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/netty-all-4.0.19.Final.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/christiaan/projects/1worx demo/CreoEdgeServer code/lib/thingworx-common.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

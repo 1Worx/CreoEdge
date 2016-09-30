@@ -1,0 +1,6 @@
+ip=41.73.54.108
+port=80
+appKey=482d05fb-d0da-4b36-a21d-43f2bebe7e78
+clientName=CreoEdgeServer
+screenshotWidth=7
+screenshotHeight=7
